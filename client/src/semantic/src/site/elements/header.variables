@@ -1,0 +1,7 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@invertedSubHeaderColor: #FFFFFF;
+@textColor: #103751;
+@subHeaderColor: #4f6d81;
